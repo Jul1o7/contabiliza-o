@@ -3,7 +3,7 @@
 > Seu assistente pessoal de controle financeiro, construído com **Python**, **LangChain** e **OpenAI**.
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-0.2-green)](https://python.langchain.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1.2-green)](https://python.langchain.com/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)](https://sqlite.org/)
 [![Tests](https://img.shields.io/badge/Tests-36%20passed-brightgreen)](#-testes)
 
